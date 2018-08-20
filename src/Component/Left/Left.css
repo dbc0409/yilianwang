@@ -1,0 +1,17 @@
+.LeftWrap {
+  width: 240px;
+  float: left;
+}
+.LeftWrap .LeftTop {
+  width: 240px;
+  height: 104px;
+  line-height: 104px;
+  background-color: #80a903;
+  font-size: 25px;
+  text-align: center;
+  color: #ffffff;
+}
+.LeftWrap .LeftBottom .item {
+  text-align: center;
+  color: #232323;
+}

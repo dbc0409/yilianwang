@@ -1,0 +1,9 @@
+.Home .wrap {
+  height: 104px;
+  background-color: #e0dacb;
+}
+.Home .wrap .manWrap {
+  height: 104px;
+  width: 965px;
+  margin: 0 auto;
+}
